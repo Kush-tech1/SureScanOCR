@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+myenv/
+.venv/
+.vscode/
+pipeline_results/
+*.jpeg
+test_new/
+test_old/
