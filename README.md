@@ -14,7 +14,7 @@ A **high-precision, multi-stage deep learning pipeline** for automated meter rea
 <img width="949" height="307" alt="image" src="https://github.com/user-attachments/assets/80106220-c579-40c6-9c6c-8cf765a8b173" />
 
 
-<img width="695" height="335" alt="image" src="https://github.com/user-attachments/assets/916c57ee-3048-46f0-af61-519c6013b865" />
+<img width="953" height="350" alt="image" src="https://github.com/user-attachments/assets/ce87654c-4821-4fa5-b5f1-56447143be92" />
 
 
 
