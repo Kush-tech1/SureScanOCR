@@ -251,32 +251,6 @@ Typical performance on NVIDIA GPU:
 
 *Times vary with image resolution and hardware.*
 
----
-
-## 🤝 Contributing
-
-Contributions welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit improvements
-4. Submit a pull request
-
----
-
-## 📝 License
-
-This project is provided as-is. Ensure all model licenses are respected.
-
----
-
-## 📧 Support
-
-For issues, questions, or feedback:
-- Open a GitHub issue
-- Check existing issues for solutions
-- Review stage-specific documentation above
-
----
 
 ## 🏆 Acknowledgments
 
