@@ -3,7 +3,7 @@
 A **high-precision, multi-stage deep learning pipeline** for automated meter reading from images. Combines object detection, classification, OCR, and perspective correction to extract meter readings with confidence scores.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python) 
-![Models](https://img.shields.io/badge/Models-ONNX%20%26%20PyTorch-green)
+![Models](https://img.shields.io/badge/Models-RF--DETR%20%2B%20EfficientNet_B0%20%2B%20PaddleOCR%20%2B%20Keypoint_RCNN-green)
 
 <img width="950" height="407" alt="image" src="https://github.com/user-attachments/assets/c5f2d163-7a6a-4604-9946-213c3c7f57f6" />
 
