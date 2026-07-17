@@ -6,7 +6,16 @@ A **high-precision, multi-stage deep learning pipeline** for automated meter rea
 ![Models](https://img.shields.io/badge/Models-ONNX%20%26%20PyTorch-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
----
+<img width="959" height="438" alt="image" src="https://github.com/user-attachments/assets/cedba250-e646-4767-9421-8ce9b0022cef" />
+
+<img width="917" height="376" alt="image" src="https://github.com/user-attachments/assets/11e03b3d-cad1-437e-9c1d-9a3d038c629c" />
+
+<img width="922" height="275" alt="image" src="https://github.com/user-attachments/assets/ab19c396-f6fb-434a-a0a3-d93a53b830e4" />
+
+<img width="695" height="335" alt="image" src="https://github.com/user-attachments/assets/916c57ee-3048-46f0-af61-519c6013b865" />
+
+<img width="220" height="414" alt="image" src="https://github.com/user-attachments/assets/4445c687-1c2d-43cd-915e-a8573d050d3d" />
+
 
 ## 🎯 Features
 
