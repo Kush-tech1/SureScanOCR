@@ -1,4 +1,4 @@
-# ⚡ SureScanOCR — Meter Reading Pipeline
+# ⚡ SureScanOCR — Meter Reading Pipeline - Prototype Development Phase Qualifier - Instinct 4.0 Hackathon by IntelliSmart Infrastructure Pvt Ltd & IIT Delhi, Energy Society
 
 A **high-precision, multi-stage deep learning pipeline** for automated meter reading from images. Combines object detection, classification, OCR, and perspective correction to extract meter readings with confidence scores.
 
